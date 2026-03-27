@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UNREALPROJECT/gitunreal/MyProject/Content/StarterContent/Audio/Collapse01.uasset",
+				"D:/UNREALPROJECT/gitunreal/MyProject/Content/Models/dragonfly/DRAGONFLYBODY_MAT.uasset",
+				"D:/UNREALPROJECT/gitunreal/MyProject/Content/Models/dragonfly/dragonflyM_UV2_Hull_BaseColor.uasset",
+				"D:/UNREALPROJECT/gitunreal/MyProject/Content/Models/dragonfly/Dragonfly_dragonfly_hull.uasset",
+				"D:/UNREALPROJECT/gitunreal/MyProject/Content/Models/dragonfly/Dragonfly_barrel_001.uasset",
+				"D:/UNREALPROJECT/gitunreal/MyProject/Content/Models/dragonfly/Dragonfly_minigun_001.uasset",
+				"D:/UNREALPROJECT/gitunreal/MyProject/Content/Models/dragonfly/Dragonfly_barrel.uasset",
+				"D:/UNREALPROJECT/gitunreal/MyProject/Content/Models/dragonfly/Dragonfly_minigun.uasset",
+				"D:/UNREALPROJECT/gitunreal/MyProject/Content/Models/dragonfly/Dragonfly_forwardblade_001.uasset",
+				"D:/UNREALPROJECT/gitunreal/MyProject/Content/Models/dragonfly/Dragonfly_forwardblade.uasset",
+				"D:/UNREALPROJECT/gitunreal/MyProject/Content/Models/dragonfly/Dragonfly_backblade_001.uasset",
+				"D:/UNREALPROJECT/gitunreal/MyProject/Content/Models/dragonfly/Dragonfly_backblade.uasset",
+				"D:/UNREALPROJECT/gitunreal/MyProject/Content/Models/dragonfly/Dragonfly_door_left.uasset",
+				"D:/UNREALPROJECT/gitunreal/MyProject/Content/Models/dragonfly/Dragonfly_door_right.uasset",
+				"D:/UNREALPROJECT/gitunreal/MyProject/Content/Models/dragonfly/Dragonfly_machinegun.uasset",
+				"D:/UNREALPROJECT/gitunreal/MyProject/Content/Models/dragonfly/dragonflyM_UV2_Hull_Normal.uasset",
+				"D:/UNREALPROJECT/gitunreal/MyProject/Content/Models/dragonfly/dragonflyM_UV2_Opacity.uasset",
+				"D:/UNREALPROJECT/gitunreal/MyProject/Content/Models/dragonfly/dragonflyM_UV2_Hull_Emissive.uasset",
+				"D:/UNREALPROJECT/gitunreal/MyProject/Content/Models/dragonfly/dragonflyM_UV2_Hull_OcclusionRoughnessMetallic.uasset"
+			]
+		}
+	]
+}
